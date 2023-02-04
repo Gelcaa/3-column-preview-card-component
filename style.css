@@ -1,0 +1,57 @@
+/* attributions(given) */
+.attribution {
+     font-size: 11px; 
+     text-align: center; 
+    }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+
+}
+/*button style */
+.btn{
+    display: block;
+    margin-top: 80px;
+    background-color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+.btnSedans{
+color: hsl(31, 77%, 52%);
+}
+.btnSuvs{
+color: hsl(184, 100%, 22%);
+}
+.btnLuxury{
+color: hsl(179, 100%, 13%);
+}
+/* for the whole column */
+.col{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Lexend Deca', sans-serif;
+font-size: 15px;
+padding: 40px 85px 40px 40px;
+
+}
+
+.title{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 20px 0px;
+}
+/* backgorund of each column */
+.sedan{
+background-color: hsl(31, 77%, 52%);
+}
+
+.suv{
+background-color: hsl(184, 100%, 22%);
+}
+
+.luxury{
+background-color: hsl(179, 100%, 13%);
+}
+
+.row{
+   padding: 150px 200px 0px;
+}
